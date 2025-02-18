@@ -1,0 +1,6 @@
+ven./
+__MyCache__/
+*.pyc
+*.SQLite3
+node_modules/
+.env
